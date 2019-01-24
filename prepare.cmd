@@ -13,4 +13,4 @@ repo_gpgcheck=1
 gpgkey=https://www.virtualbox.org/download/oracle_vbox.asc
 
 执行：
-yum install VirtualBox-5.1
+yum -y install VirtualBox-5.1
